@@ -1,5 +1,4 @@
 # AI-Webscraper
-# AI Webscraper
 
 This project is a **Streamlit-based AI-powered web scraper and parser**.
 It allows users to scrape content from a given website, clean the HTML body, and parse the DOM content based on a custom description.
